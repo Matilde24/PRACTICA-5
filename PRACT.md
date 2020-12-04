@@ -158,7 +158,7 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 * Desde el panel Palette y el apartado Common, agregue un elemento View TextView y establezca el atributo id a show_count.
 
 <img src="Medio\imagen39.png/">
-<img src="Medio\imagen38.png/">
+<img src="Medio\imagen38.PNG/">
 
 * Establezca las restricciones del TextView, la parte superior con el botón de Toast y su parte inferior con el botón contador.
 
