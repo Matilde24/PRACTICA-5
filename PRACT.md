@@ -1,11 +1,13 @@
 ### I. Visión general de la aplicación
 
 El resultado debe mostrar una captura semejante a esta pantalla siguiente:
+
 <img src="Medio\imagen1.PNG">
 
 ### Tarea 1.1: Crear y explorar el proyecto
 
 <img src="Medio\imagen2.PNG">
+
  Primeramente lo que vamos hacer es crear un nuevo proyecto en el cual estare trabajando, para eso vamos a dar clic en <crear un nuevo proyecto>.
 
 <img src="Medio\imagen3.PNG">
