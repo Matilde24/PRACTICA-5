@@ -170,7 +170,7 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 
 ### Establezca el valor text a 0
 
-<img src="medio\imagen42.PNG/">
+<img src="Medio\imagen42.PNG/">
  
  Cuando le establecemos el valor 0 al texto ocurre que se reduce de manera notable.
 
