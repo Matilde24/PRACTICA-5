@@ -154,6 +154,7 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 
 ### Agregar el elemento TextView y sus atributos correspondientes
 
+
 * Desde el panel Palette y el apartado Common, agregue un elemento View TextView y establezca el atributo id a show_count.
 
 <img src="Medio\imagen39.png/">
