@@ -216,5 +216,47 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 
 <img src="Medio\imagen57.PNG/">
 
+### Cambie el valor de text del TextView a un @string/count_initial_value
+
+<img src="Medio\imagen59.PNG/">
+
+
+### Cambie el valor de text del botón superior a @string/button_label_toast
+
+<img src="Medio\imagen60.PNG/">
+
+### Cambie el valor de text del botón inferior a @string/button_label_count
+
+<img src="Medio\imagen61.PNG/">
+
+
+### Tarea 1.5: Agregar el manejador del evento onClick para los botones
+
+* Establezca el siguiente código al botón que tenga como id button_toast, antes de cerrarlo
+
+<img src="Medio\imagen62.PNG/">
+
+### Establezca el siguiente código al botón que tenga como id button_count, antes de cerrarlo
+
+<img src="Medio\imagen63.PNG/">
+
+### Abra el MainActivity.kt y agregue el siguiente código
+
+<img src="Medio\imagen64.PNG/">
+
+### Agregue el siguiente código al método showToast
+
+<img src="Medio\imagen65.PNG/">
+
+### Pruebe los resultados ejecutando la aplicación y mostrando el mensaje generado con el valor Hola soy un Toast
+
+<img src="Medio\imagen66.jpg/">
+
+### Agregue el siguiente código al método countUp
+<img src="Medio\imagen67.PNG/">
+
+### Muestre la aplicación funcionando con el contador funcionando el contador y el mensaje Toast mostrándose cada vez que el usuario de Clic
+
+<img src="Medio\imagen66.JPG/">
 
 
