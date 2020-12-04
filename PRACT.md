@@ -257,6 +257,7 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 
 ### Muestre la aplicación funcionando con el contador funcionando el contador y el mensaje Toast mostrándose cada vez que el usuario de Clic
 
-<img src="Medio\imagen66.JPG/">
+<img src="Medio\imagen66.jpg/">
+
 
 
