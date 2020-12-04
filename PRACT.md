@@ -108,7 +108,7 @@ para cambiar el tamaño del Button, ubicamos en la perte donde se encuentra el <
 
 ### Haga clic en el control de ancho las veces que sea necesario; debe lograr el valor match_constraint para el layout_width.
 
-<img src="Medio\imagen25.png/">
+<img src="Medio\imagen24.png/">
 
 ### Realice la misma modificación para el botón inferior, el resultado es que ambos botones deben cubrir todo el ancho del constraint.
 
